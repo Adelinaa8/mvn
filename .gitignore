@@ -1,1 +1,5 @@
 target/
+classes/ru/netology/
+maven-status/maven-compiler-plugin/
+surefire-reports/
+test-classes
